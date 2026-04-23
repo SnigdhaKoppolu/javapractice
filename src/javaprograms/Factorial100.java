@@ -9,7 +9,7 @@ public class Factorial100 {
 		        BigInteger result = BigInteger.ONE;
 
 		        System.out.println("Factorials of the first 100 numbers:");
-		        System.out.println("------------------------------------");
+		        
 
 		        for (int i = 1; i <= 100; i++) {
 		            // Multiply current result by the next number
@@ -18,5 +18,5 @@ public class Factorial100 {
 		            // Print the result for each step
 		            System.out.println(i + "! = " + result);
 		        }
-		    }
+		   }
 	}

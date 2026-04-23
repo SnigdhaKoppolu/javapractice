@@ -1,4 +1,4 @@
-package com.inhereience;
+package com.inheritence;
 
 public class AdvancedCal extends ScientificCal{
 	

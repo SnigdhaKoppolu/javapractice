@@ -1,4 +1,4 @@
-package com.inhereience;
+package com.inheritence;
 
 public class ScientificCal extends Calculator {
  

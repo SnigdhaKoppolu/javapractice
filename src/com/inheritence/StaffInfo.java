@@ -1,4 +1,4 @@
-package com.inhereience;
+package com.inheritence;
 
 public class StaffInfo extends StudentInfo{
 	String s_members;
